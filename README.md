@@ -6,4 +6,5 @@ The purpose of this project is to analyze a variety of green energy stocks infor
 
 ## Results
 
-![2018] (Resourses/2018.png)
+![Table 2018] (https://raw.githubusercontent.com/sergiocapacho/Challenge2/main/Resourses/2018.png)
+
