@@ -6,7 +6,6 @@ The purpose of this project is to analyze a variety of green energy stocks infor
 
 ## Results
 
-<<<<<<< HEAD
 #### Stocks
 
 ##### Refactored Tables
@@ -33,9 +32,4 @@ The best stocks according to the performance were “ENPH” and “RUN”. The 
 
 The refactored script was clearly faster than the original as execution time decreased by 0.5703125 in 2017 and by 0.5625 in 2018.
 
-
-
-=======
-![2018](https://raw.githubusercontent.com/sergiocapacho/Challenge2/main/Resourses/2018.png)
->>>>>>> 57c9fd1b9c6084375832cd3ce533fd239371085d
 
