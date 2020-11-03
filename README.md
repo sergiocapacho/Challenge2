@@ -6,6 +6,7 @@ The purpose of this project is to analyze a variety of green energy stocks infor
 
 ## Results
 
+<<<<<<< HEAD
 #### Stocks
 
 ##### Refactored Tables
@@ -34,4 +35,7 @@ The refactored script was clearly faster than the original as execution time dec
 
 
 
+=======
+![2018](https://raw.githubusercontent.com/sergiocapacho/Challenge2/main/Resourses/2018.png)
+>>>>>>> 57c9fd1b9c6084375832cd3ce533fd239371085d
 
